@@ -1,2 +1,2 @@
 # git-test
-just fopr testing
+just for testing
